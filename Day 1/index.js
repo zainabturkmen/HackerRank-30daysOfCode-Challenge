@@ -49,6 +49,4 @@ function main() {
     
     console.log(s + str)
 
-
-
 }
