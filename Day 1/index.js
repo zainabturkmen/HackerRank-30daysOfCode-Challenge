@@ -35,7 +35,7 @@ function main() {
    myInt0 = parseInt(readLine());
    double0 = parseFloat(readLine())
    str = readLine()
-
+  
     // Print the sum of both integer variables on a new line.
     
     console.log(i + myInt0);
