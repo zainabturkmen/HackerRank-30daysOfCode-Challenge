@@ -2,5 +2,6 @@
 
 
 ### Day 1: Data Types
+# For solving the first challenge I used JavaScript.
 
 
