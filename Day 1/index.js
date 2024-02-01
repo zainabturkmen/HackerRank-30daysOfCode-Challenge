@@ -48,11 +48,7 @@ function main() {
     // The 's' variable above should be printed first.
     
     console.log(s + str)
-    
-    
-    
-    
-    
+
 
 
 }
