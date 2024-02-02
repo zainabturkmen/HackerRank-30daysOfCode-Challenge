@@ -5,4 +5,5 @@
 #### For solving the first challenge I used JavaScript. But whatever language that you want you can use and solve it.   
 
 
-### Day 2: 
+### Day 2: Operators 
+#### 
