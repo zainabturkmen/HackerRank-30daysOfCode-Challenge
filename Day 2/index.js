@@ -6,7 +6,7 @@
  */   
 //  solving the challenge
 
-'use strict';  
+'use strict'; 
 
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
