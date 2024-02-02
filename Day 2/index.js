@@ -29,7 +29,7 @@ function readLine() {
     return inputString[currentLine++];
 }  
   
-/*
+/*  
  * Complete the 'solve' function below.
  *
  * The function accepts following parameters:
