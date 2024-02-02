@@ -23,7 +23,7 @@ process.stdin.on('end', function() {
     inputString = inputString.split('\n');
 
     main();
-});     
+});      
 
 function readLine() {
     return inputString[currentLine++];
