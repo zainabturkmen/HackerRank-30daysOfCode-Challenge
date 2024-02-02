@@ -5,7 +5,6 @@
  find and print the meal's total cost.Round the result to the nearest integer.
  */    
 
- 
 
 //  solving the challenge
 
