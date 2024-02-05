@@ -38,5 +38,5 @@ function main() {
         console.log("Weird")
     } else {
         console.log("Not Weird")
-    }
+    };
 };
