@@ -31,7 +31,7 @@ function main() {
         const result = `${n} x ${i} = ${n * i}`
         console.log(result)
     }
-}
+};
 
 /*  My output
 2 x 1 = 2
