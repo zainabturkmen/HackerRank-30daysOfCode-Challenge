@@ -35,6 +35,9 @@ function readLine() {
 function main() {
     const N = parseInt(readLine().trim(), 10);
     if (N % 2 !==0 || (N >= 6 && N<= 20)){
+        /* N % 2 !== 0 checks if N is not divisible by 2, i.e., if N is an odd number.
+        (N >= 6 && N<= 20) checks if N is between 6 and 20 (inclusive).
+        */
         console.log("Weird")
     } else {
         console.log("Not Weird")
