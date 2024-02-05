@@ -23,7 +23,7 @@
 ### Day 5: Loops, For day 5 we solve loop sectiion challenge
 ### Sample Output 
 ##### 2 x 1 = 2 
-#### 2 x 2 = 4
+##### 2 x 2 = 4
 #### 2 x 3 = 6
 #### 2 x 4 = 8
 #### 2 x 5 = 10
