@@ -30,7 +30,7 @@ function readLine() {
     return inputString[currentLine++];
 }
 
-// Write your code here
+// Write your code here, Solve the challenge
 
 function main() {
     const N = parseInt(readLine().trim(), 10);
