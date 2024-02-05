@@ -21,7 +21,7 @@ process.stdin.on('end', function() {
 
 function readLine() {
     return inputString[currentLine++];
-}
+} 
 
 //write your code here 
 
