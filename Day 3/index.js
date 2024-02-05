@@ -39,4 +39,4 @@ function main() {
     } else {
         console.log("Not Weird")
     }
-}
+};
