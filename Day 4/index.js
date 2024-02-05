@@ -45,6 +45,7 @@ function Person(initialAge){
         age = initialAge
     
     }
+    
   this.amIOld=function(){
    // Do some computations in here and print out the correct statement to the console
         
