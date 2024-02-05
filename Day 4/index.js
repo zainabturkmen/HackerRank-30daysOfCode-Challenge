@@ -45,7 +45,7 @@ function Person(initialAge){
         age = initialAge
     
     }
-    
+
   this.amIOld=function(){
    // Do some computations in here and print out the correct statement to the console
         
@@ -56,7 +56,6 @@ function Person(initialAge){
       } else {
           console.log("You are old.");
       }
-
   };
    this.yearPasses=function(){
           // Increment the age of the person in here
