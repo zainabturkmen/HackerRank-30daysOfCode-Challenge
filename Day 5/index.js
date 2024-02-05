@@ -1,4 +1,5 @@
-// 
+// Day 5: Loops
+
 
 'use strict';
 
@@ -22,7 +23,7 @@ function readLine() {
     return inputString[currentLine++];
 }
 
-
+//write your code here 
 
 function main() {
     const n = parseInt(readLine().trim(), 10);
