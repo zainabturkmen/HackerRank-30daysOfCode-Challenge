@@ -62,7 +62,7 @@ function Person(initialAge){
           age++;
    };
 }  
-
+  
 function main() {
 
 var T=parseInt(readLine());
